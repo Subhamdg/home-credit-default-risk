@@ -25,7 +25,7 @@ There are 7 different sources of data:
 * credit_card_balance: monthly data about previous credit cards clients have had with Home Credit. Each row is one month of a credit card balance, and a single credit card can have many rows.
 * installments_payment: payment history for previous loans at Home Credit. There is one row for every made payment and one row for every missed payment.
 
-Here we have used Feature Engineering and LightGBM as a classifier
+### Here, we have used Feature Engineering and LightGBM as a classifier
 
 ### Evaluation
 * F1 being: 0.884
